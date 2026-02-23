@@ -53,3 +53,4 @@ Em resumo, usar água do mar como combustível seria mais sustentável do que us
 
 Agora, te lanço uma reflexão: você acha que seria mais viável investir em **carros a hidrogênio derivados da água do mar** ou em **carros elétricos alimentados por energia solar e eólica**?
 
+By copilot.
