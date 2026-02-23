@@ -1,6 +1,10 @@
 # Engenharia-de-Prompt-e-Aplica-es-em-IA
 
-Como seria o mundo se os carros fossem movidos a agua?
+Missão 01:
+1. Crie um prompt simples
+2. Compartilhe o resultado
+
+Prompt: Como seria o mundo se os carros fossem movidos a agua?
 
 Se os carros fossem movidos a água, o mundo seria radicalmente diferente em vários aspectos:
 
