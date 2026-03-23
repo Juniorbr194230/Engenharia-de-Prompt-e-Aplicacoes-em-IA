@@ -1,4 +1,4 @@
-Problema selecionado: Necessidade de documentação técnica concisa para a interface da tela de Login do projeto Wilton Banco.
+Problema selecionado: Necessidade de documentação técnica concisa para a interface da tela de Login do projeto Wilton Banco. (aplicativo baseado na aula de terça feira no Figma)
 
 O Prompt Vago:
 
