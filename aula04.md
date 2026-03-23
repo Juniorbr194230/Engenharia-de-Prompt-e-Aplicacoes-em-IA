@@ -18,3 +18,5 @@ Restrições: Seja direto e técnico. Inclua os campos de input necessários, as
 Formato: Entregue a resposta estritamente em formato Markdown, utilizando títulos, listas e formatação de ênfase (negrito).
 
 "Atue como um Tech Lead e UX/UI Designer sênior. Estamos desenvolvendo o protótipo de interface de um aplicativo bancário moderno chamado 'Wilton Banco'. Preciso de uma documentação inicial da tela de Login para guiar os desenvolvedores Front-end. Seja direto e técnico. A documentação deve incluir os campos de input necessários, as ações (botões primários e secundários) e as validações de interface requeridas. Restrição: limite a explicação a no máximo 200 palavras. Entregue o resultado final estritamente em formato Markdown."
+
+resposta do gemini.
