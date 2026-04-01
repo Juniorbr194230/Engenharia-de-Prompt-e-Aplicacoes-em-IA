@@ -1,7 +1,7 @@
 # Engenharia-de-Prompt-e-Aplica-es-em-IA
 
 Missão 01:
-1. Crie um prompt simples
+1. Crie um prompt simples 
 2. Compartilhe o resultado
 
 Prompt: Como seria o mundo se os carros fossem movidos a agua?
